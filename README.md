@@ -1,2 +1,2 @@
-.menu # Nadiabot
+ .menu # Nadiabot
 Y
